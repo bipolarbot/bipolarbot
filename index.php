@@ -1,5 +1,5 @@
 <?php
-echo "Hello LINE BOT";
+echo "Hello Bipolar LINE BOT";
 
  
 $strAccessToken = "ACCESS_TOKEN";
